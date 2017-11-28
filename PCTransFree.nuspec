@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter 
+     enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>pctransfree</id>
+    <title>EEaseUS Todo PCTrans (Free)</title>
+    <version>9.8</version>
+    <authors>CHENGDU Yiwo Tech Development Co., Ltd</authors>
+    <owners>basictheprogram</owners>
+    <summary>EaseUS Todo PCTrans is a reliable and easy-to-use PC transfer software.</summary>
+    <description>EaseUS Todo PCTrans is a reliable and easy-to-use PC transfer software. It can easily migrate 
+    or move your programs or selected files including data, documents, music, pictures, favorites, emails from 
+    old computer to a new one or system upgrade.</description>
+    <projectUrl>https://www.easeus.com/free-pc-transfer-software/</projectUrl>
+    <tags>system admin</tags>
+    <copyright>Copyright © 2004 - 2017 EaseUS. ALL RIGHTS RESERVED.</copyright>
+    <licenseUrl>http://www.easeus.com/license.htm</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/basictheprogram/chocolatey-chocolatey-pctransfree/icons/pctransfree.png</iconUrl>
+    <packageSourceUrl>https://github.com/basictheprogram/chocolatey-chocolatey-pctransfree</packageSourceUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
