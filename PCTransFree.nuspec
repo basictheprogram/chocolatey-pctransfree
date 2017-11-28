@@ -17,8 +17,8 @@
     <copyright>Copyright © 2004 - 2017 EaseUS. ALL RIGHTS RESERVED.</copyright>
     <licenseUrl>http://www.easeus.com/license.htm</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/basictheprogram/chocolatey-chocolatey-pctransfree/icons/pctransfree.png</iconUrl>
-    <packageSourceUrl>https://github.com/basictheprogram/chocolatey-chocolatey-pctransfree</packageSourceUrl>
+    <iconUrl>http://bit.ly/2j1hk85</iconUrl>
+    <packageSourceUrl>https://github.com/basictheprogram/chocolatey-pctransfree</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
