@@ -19,6 +19,10 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <iconUrl>http://bit.ly/2j1hk85</iconUrl>
     <packageSourceUrl>https://github.com/basictheprogram/chocolatey-pctransfree</packageSourceUrl>
+    <releaseNotes>https://www.easeus.com/pc-transfer-software/history.html</releaseNotes>
+    <docsUrl>https://www.easeus.com/support/download/docs/user_guide.htm</docsUrl>
+    <mailingListUrl>http://kb.easeus.com</mailingListUrl>
+    <projectSourceUrl>http://download.easeus.com/free/pctrans.exe</projectSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
