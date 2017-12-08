@@ -5,7 +5,7 @@
   <metadata>
     <id>pctransfree</id>
     <title>EaseUS Todo PCTrans (Free)</title>
-    <version>9.8.1</version>
+    <version>9.8.2</version>
     <authors>CHENGDU Yiwo Tech Development Co., Ltd</authors>
     <owners>basictheprogram</owners>
     <summary>EaseUS Todo PCTrans is a reliable and easy-to-use PC transfer software.</summary>
@@ -17,7 +17,7 @@
     <copyright>Copyright © 2004 - 2017 EaseUS. ALL RIGHTS RESERVED.</copyright>
     <licenseUrl>http://www.easeus.com/license.htm</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <iconUrl>http://bit.ly/2j1hk85</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/basictheprogram/chocolatey-pctransfree/deb4f24e96300f30835f0c92132c296bb0b326cc/icons/pctransfree.png</iconUrl>
     <packageSourceUrl>https://github.com/basictheprogram/chocolatey-pctransfree</packageSourceUrl>
     <releaseNotes>https://www.easeus.com/pc-transfer-software/history.html</releaseNotes>
     <docsUrl>https://www.easeus.com/support/download/docs/user_guide.htm</docsUrl>
